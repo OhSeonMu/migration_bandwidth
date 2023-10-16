@@ -1,0 +1,3 @@
+[submodule "benchmark/benchmark/gapbs"]
+	path = benchmark/benchmark/gapbs
+	url = https://github.com/minlno/gapbs.git
