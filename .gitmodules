@@ -1,3 +1,9 @@
 [submodule "benchmark/benchmark/gapbs"]
 	path = benchmark/benchmark/gapbs
 	url = https://github.com/minlno/gapbs.git
+[submodule "benchmark/benchmart/gapbs"]
+	path = benchmark/benchmart/gapbs
+	url = https://github.com/minlno/gapbs.git
+[submodule "benchmark/gapbs"]
+	path = benchmark/gapbs
+	url = https://github.com/minlno/gapbs.git
