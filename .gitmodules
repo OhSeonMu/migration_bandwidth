@@ -7,3 +7,6 @@
 [submodule "benchmark/gapbs"]
 	path = benchmark/gapbs
 	url = https://github.com/minlno/gapbs.git
+[submodule "MTA-TMM-kernel-v2"]
+	path = MTA-TMM-kernel-v2
+	url = https://github.com/minlno/MTA-TMM-kernel-v2.git
